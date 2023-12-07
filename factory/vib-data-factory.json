@@ -1,0 +1,9 @@
+{
+	"name": "vib-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5086b79f-58c1-4829-9850-0151ec3fd95e",
+		"tenantId": "02e5924d-7bbe-4d88-8888-87838405391a"
+	}
+}
